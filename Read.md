@@ -1,0 +1,6 @@
+- Truffle version: v5.1.51
+- openzeppelin-solidity version: 2.1.2
+- ERC-721 Token Name: Star Notary
+- ERC-721 Token Symbol: STNR
+- Token Address on the Rinkeby Network: 0x8fEcFD9F7ff2d55743Fa06f800d6C1800D006951
+- Token details on Rinkeby: https://rinkeby.etherscan.io/token/0x8fEcFD9F7ff2d55743Fa06f800d6C1800D006951
